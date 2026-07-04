@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+
+# Generated Reports
+generated_reports/
+
+# Embeddings
+embeddings/
+
+# Vector Database
+vector_store/
+
+# Operating System
+.DS_Store
+Thumbs.db
