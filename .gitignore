@@ -30,3 +30,11 @@ vector_store/
 # Operating System
 .DS_Store
 Thumbs.db
+
+data/edgar/
+data/kaggle/
+embeddings/
+faiss_index/
+models/
+__pycache__/
+.ipynb_checkpoints/
